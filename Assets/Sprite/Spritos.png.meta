@@ -1,0 +1,3348 @@
+fileFormatVersion: 2
+guid: 3996e072332633f4bb961347fd54e4ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3051847259753163118
+    second: Spritos_0
+  - first:
+      213: 2068152624617144384
+    second: Spritos_1
+  - first:
+      213: 1722558253457156405
+    second: Spritos_2
+  - first:
+      213: 2296123445344209975
+    second: Spritos_3
+  - first:
+      213: -3522012261894445367
+    second: Spritos_4
+  - first:
+      213: -3433264474759945199
+    second: Spritos_5
+  - first:
+      213: 844164598264638583
+    second: Spritos_6
+  - first:
+      213: -7390685680921069592
+    second: Spritos_7
+  - first:
+      213: 3614040882198378348
+    second: Spritos_8
+  - first:
+      213: 6127667960037895442
+    second: Spritos_9
+  - first:
+      213: -5499966396067399821
+    second: Spritos_10
+  - first:
+      213: -2542582921998656985
+    second: Spritos_11
+  - first:
+      213: 6731461657893410079
+    second: Spritos_12
+  - first:
+      213: 275176970867816481
+    second: Spritos_13
+  - first:
+      213: -7269632295006738464
+    second: Spritos_14
+  - first:
+      213: -1215714122043167020
+    second: Spritos_15
+  - first:
+      213: 7697600393618637072
+    second: Spritos_16
+  - first:
+      213: -7228002680158551392
+    second: Spritos_17
+  - first:
+      213: 6387846616096506080
+    second: Spritos_18
+  - first:
+      213: 3492956084222525960
+    second: Spritos_19
+  - first:
+      213: -6220391977876976440
+    second: Spritos_20
+  - first:
+      213: -3132515131318226584
+    second: Spritos_21
+  - first:
+      213: 4683015783085955537
+    second: Spritos_22
+  - first:
+      213: -7775999139626295114
+    second: Spritos_23
+  - first:
+      213: -881475990621116648
+    second: Spritos_24
+  - first:
+      213: -3525229359604225415
+    second: Spritos_25
+  - first:
+      213: 4137185679177351515
+    second: Spritos_26
+  - first:
+      213: -2128937536407614306
+    second: Spritos_27
+  - first:
+      213: -6553881026989591644
+    second: Spritos_28
+  - first:
+      213: -6542218848747852991
+    second: Spritos_29
+  - first:
+      213: -459360484828309600
+    second: Spritos_30
+  - first:
+      213: -7767465630441957147
+    second: Spritos_31
+  - first:
+      213: 3567932825315584444
+    second: Spritos_32
+  - first:
+      213: -5401228382317741275
+    second: Spritos_33
+  - first:
+      213: 8531980403557801042
+    second: Spritos_34
+  - first:
+      213: 7021319639326053959
+    second: Spritos_35
+  - first:
+      213: -4282150414757118665
+    second: Spritos_36
+  - first:
+      213: 3352525708345643402
+    second: Spritos_37
+  - first:
+      213: -407920274754384678
+    second: Spritos_38
+  - first:
+      213: 2617429022919173137
+    second: Spritos_39
+  - first:
+      213: -647909613840510123
+    second: Spritos_40
+  - first:
+      213: 3243880323321671700
+    second: Spritos_41
+  - first:
+      213: -8389237566439718027
+    second: Spritos_42
+  - first:
+      213: -2510997810930221765
+    second: Spritos_43
+  - first:
+      213: -7452523921458385530
+    second: Spritos_44
+  - first:
+      213: -4665349599176015468
+    second: Spritos_45
+  - first:
+      213: -854062879288341063
+    second: Spritos_46
+  - first:
+      213: -7319235475774416404
+    second: Spritos_47
+  - first:
+      213: -1721791630666488971
+    second: Spritos_48
+  - first:
+      213: 4917045057106039230
+    second: Spritos_49
+  - first:
+      213: 5577006086808668638
+    second: Spritos_50
+  - first:
+      213: 7472817168247408921
+    second: Spritos_51
+  - first:
+      213: 7386895145913413521
+    second: Spritos_52
+  - first:
+      213: 292448761265455247
+    second: Spritos_53
+  - first:
+      213: 7216510316531526279
+    second: Spritos_54
+  - first:
+      213: 2477039602160025461
+    second: Spritos_55
+  - first:
+      213: -2494627054400231327
+    second: Spritos_56
+  - first:
+      213: 500153052883633830
+    second: Spritos_57
+  - first:
+      213: -4242991612383804813
+    second: Spritos_58
+  - first:
+      213: -2739504671812600042
+    second: Spritos_59
+  - first:
+      213: -2525829223265443807
+    second: Spritos_60
+  - first:
+      213: 9165134185458860768
+    second: Spritos_61
+  - first:
+      213: 1066068275073181124
+    second: Spritos_62
+  - first:
+      213: -1201672453399045102
+    second: Spritos_63
+  - first:
+      213: 3130823250668775005
+    second: Spritos_64
+  - first:
+      213: 5088945714131949092
+    second: Spritos_65
+  - first:
+      213: 5369745353734684124
+    second: Spritos_66
+  - first:
+      213: 6903087497821267669
+    second: Spritos_67
+  - first:
+      213: 8664469314550282208
+    second: Spritos_68
+  - first:
+      213: -487276404283542807
+    second: Spritos_69
+  - first:
+      213: 492524875896763068
+    second: Spritos_70
+  - first:
+      213: -7305975215116501797
+    second: Spritos_71
+  - first:
+      213: 5280008989250046775
+    second: Spritos_72
+  - first:
+      213: -5015110118936312548
+    second: Spritos_73
+  - first:
+      213: 141531524009363243
+    second: Spritos_74
+  - first:
+      213: 285615720575379836
+    second: Spritos_75
+  - first:
+      213: -1444460517963264477
+    second: Spritos_76
+  - first:
+      213: 1369997177140262133
+    second: Spritos_77
+  - first:
+      213: -3230860849903288155
+    second: Spritos_78
+  - first:
+      213: -5316505247038085555
+    second: Spritos_79
+  - first:
+      213: -463614835611486215
+    second: Spritos_80
+  - first:
+      213: -1314210114267370625
+    second: Spritos_81
+  - first:
+      213: -1737927955522296738
+    second: Spritos_82
+  - first:
+      213: 3449142231095456538
+    second: Spritos_83
+  - first:
+      213: -1871632038077204693
+    second: Spritos_84
+  - first:
+      213: -1046634104284199047
+    second: Spritos_85
+  - first:
+      213: 4954916972693221647
+    second: Spritos_86
+  - first:
+      213: 8617294474316802385
+    second: Spritos_87
+  - first:
+      213: -5922073291777177778
+    second: Spritos_88
+  - first:
+      213: -6214944875549703652
+    second: Spritos_89
+  - first:
+      213: 1311088456600666898
+    second: Spritos_90
+  - first:
+      213: -1591920687629190799
+    second: Spritos_91
+  - first:
+      213: -8536229822373860170
+    second: Spritos_92
+  - first:
+      213: -4059745331148239262
+    second: Spritos_93
+  - first:
+      213: 731099839160133502
+    second: Spritos_94
+  - first:
+      213: -625139342424026893
+    second: Spritos_95
+  - first:
+      213: -6319410584270615829
+    second: Spritos_96
+  - first:
+      213: 5343965920729175728
+    second: Spritos_97
+  - first:
+      213: -254217950134542359
+    second: Spritos_98
+  - first:
+      213: 4829951439707943253
+    second: Spritos_99
+  - first:
+      213: -8317115036176681072
+    second: Spritos_100
+  - first:
+      213: 6533794636971464779
+    second: Spritos_101
+  - first:
+      213: 1526323624557818472
+    second: Spritos_102
+  - first:
+      213: -2219211164610229791
+    second: Spritos_103
+  - first:
+      213: 9152065020888362761
+    second: Spritos_104
+  - first:
+      213: 3206347544906147151
+    second: Spritos_105
+  - first:
+      213: 7561327564514268952
+    second: Spritos_106
+  - first:
+      213: 8930104098327669178
+    second: Spritos_107
+  - first:
+      213: 5026794007280227574
+    second: Spritos_108
+  - first:
+      213: -4122084624746043566
+    second: Spritos_109
+  - first:
+      213: -6299830766899760360
+    second: Spritos_110
+  - first:
+      213: 4260581012912294310
+    second: Spritos_111
+  - first:
+      213: 4950345429491400068
+    second: Spritos_112
+  - first:
+      213: 6378395308605948944
+    second: Spritos_113
+  - first:
+      213: 608342784028824961
+    second: Spritos_114
+  - first:
+      213: 3525916171903794590
+    second: Spritos_115
+  - first:
+      213: -4208011077806689133
+    second: Spritos_116
+  - first:
+      213: -2821483417660540721
+    second: Spritos_117
+  - first:
+      213: -8805974833042409954
+    second: Spritos_118
+  - first:
+      213: -61095721386730398
+    second: Spritos_119
+  - first:
+      213: -6009533555833572537
+    second: Spritos_120
+  - first:
+      213: 8289410771655375061
+    second: Spritos_121
+  - first:
+      213: 833281187476488697
+    second: Spritos_122
+  - first:
+      213: -8317595635827170125
+    second: Spritos_123
+  - first:
+      213: -4411849548728775908
+    second: Spritos_124
+  - first:
+      213: -128377351050044667
+    second: Spritos_125
+  - first:
+      213: -2239708016966737818
+    second: Spritos_126
+  - first:
+      213: 575154068801080310
+    second: Spritos_127
+  - first:
+      213: -4843922821603377138
+    second: Spritos_128
+  - first:
+      213: 7527383459943312616
+    second: Spritos_129
+  - first:
+      213: 7658166505716384940
+    second: Spritos_130
+  - first:
+      213: -8759830237310647477
+    second: Spritos_131
+  - first:
+      213: -9140028021879114983
+    second: Spritos_132
+  - first:
+      213: 4928156604844324155
+    second: Spritos_133
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 568, z: 469, w: 107}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritos_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 691
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692652d9e65a5a20800000000000000
+      internalID: 3051847259753163118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 691
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c893cadd83bc10800000000000000
+      internalID: 2068152624617144384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 691
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392b32ea91c7e710800000000000000
+      internalID: 1722558253457156405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 691
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0030bb187ddf10800000000000000
+      internalID: 2296123445344209975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 684
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6263b128c4f1fc0800000000000000
+      internalID: -3522012261894445367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 687
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11427f186289a50d0800000000000000
+      internalID: -3433264474759945199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 685
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2683ca3317bb00800000000000000
+      internalID: 844164598264638583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 685
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7322ed7820f6990800000000000000
+      internalID: -7390685680921069592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 688
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c677c2bc807a72230800000000000000
+      internalID: 3614040882198378348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 634
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21de99b3b89d90550800000000000000
+      internalID: 6127667960037895442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 634
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37731dde3b13ca3b0800000000000000
+      internalID: -5499966396067399821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 634
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a9b4abd4ee6bcd0800000000000000
+      internalID: -2542582921998656985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 634
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1516e986b4fa6d50800000000000000
+      internalID: 6731461657893410079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 635
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b1fe3fff91d300800000000000000
+      internalID: 275176970867816481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 634
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76a60a1f31d1b90800000000000000
+      internalID: -7269632295006738464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 606
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dee037727ae02fe0800000000000000
+      internalID: -1215714122043167020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 595
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011cb8c36ce53da60800000000000000
+      internalID: 7697600393618637072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 595
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20495abd9f0bb90800000000000000
+      internalID: -7228002680158551392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 595
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00d1037a036a850800000000000000
+      internalID: 6387846616096506080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 573
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028f185d09797030800000000000000
+      internalID: 3492956084222525960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 573
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc04f2047abca9a0800000000000000
+      internalID: -6220391977876976440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 573
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bd38b5121784d0800000000000000
+      internalID: -3132515131318226584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 573
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d2640b0a6df040800000000000000
+      internalID: 4683015783085955537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 573
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e4d44bf9161490800000000000000
+      internalID: -7775999139626295114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 573
+        width: 74
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21200891, y: 0.48542112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8172efcb14e54c3f0800000000000000
+      internalID: -881475990621116648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 615
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a230d239ed31fc0800000000000000
+      internalID: -3525229359604225415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 586
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b510339947c3a6930800000000000000
+      internalID: 4137185679177351515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_27
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 586
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ccd69179e7472e0800000000000000
+      internalID: -2128937536407614306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 586
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fc1e0eefeb05a0800000000000000
+      internalID: -6553881026989591644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 587
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be4858e9e5535a0800000000000000
+      internalID: -6542218848747852991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 585
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a715f5a21600a9f0800000000000000
+      internalID: -459360484828309600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_31
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 585
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89374b92b643490800000000000000
+      internalID: -7767465630441957147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 584
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9246b3008d38130800000000000000
+      internalID: 3567932825315584444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 589
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7139376bfa05b0800000000000000
+      internalID: -5401228382317741275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 526
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c18a009fea76670800000000000000
+      internalID: 8531980403557801042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 526
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d08ce20db07160800000000000000
+      internalID: 7021319639326053959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 524
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d3c95b2eeb294c0800000000000000
+      internalID: -4282150414757118665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 526
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a819e4a8e50968e20800000000000000
+      internalID: 3352525708345643402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 526
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc59edba6c65af0800000000000000
+      internalID: -407920274754384678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 526
+        width: 72
+        height: 33
+      alignment: 9
+      pivot: {x: 0.1953036, y: 0.44301537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11425ef14d9f25420800000000000000
+      internalID: 2617429022919173137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 537
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d97493a92207f0800000000000000
+      internalID: -647909613840510123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 526
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410b77d97f3940d20800000000000000
+      internalID: 3243880323321671700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 546
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5738ff3a1e0739b80800000000000000
+      internalID: -8389237566439718027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 526
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d78b77bc4272dd0800000000000000
+      internalID: -2510997810930221765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_44
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 508
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d2f558af0539890800000000000000
+      internalID: -7452523921458385530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 522
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914a14f149514fb0800000000000000
+      internalID: -4665349599176015468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_46
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 522
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdcb281652c524f0800000000000000
+      internalID: -854062879288341063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 522
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9570f1d1adc6a90800000000000000
+      internalID: -7319235475774416404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_48
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 522
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57322e462a7fa18e0800000000000000
+      internalID: -1721791630666488971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_49
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 522
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb155658d6adc3440800000000000000
+      internalID: 4917045057106039230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_50
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 521
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90c6adc71856d40800000000000000
+      internalID: 5577006086808668638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 468
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c3d03f97c4b760800000000000000
+      internalID: 7472817168247408921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 474
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fe93d6ff5838660800000000000000
+      internalID: 7386895145913413521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 469
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f800b32599cfe0400800000000000000
+      internalID: 292448761265455247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 477
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aadcee5e1362460800000000000000
+      internalID: 7216510316531526279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 469
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6925194, y: 0.49999934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fb25de466306220800000000000000
+      internalID: 2477039602160025461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_56
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 468
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5924668, y: 0.49999934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168256f39ed416dd0800000000000000
+      internalID: -2494627054400231327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 468
+        width: 75
+        height: 43
+      alignment: 9
+      pivot: {x: 0.16570434, y: 0.5291521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c47a3d86e0f600800000000000000
+      internalID: 500153052883633830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 468
+        width: 91
+        height: 43
+      alignment: 9
+      pivot: {x: 0.16041246, y: 0.49999857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372c6eedb9ddd15c0800000000000000
+      internalID: -4242991612383804813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 413
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3618f3035bf9d0800000000000000
+      internalID: -2739504671812600042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_60
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 415
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12066ff24b372fcd0800000000000000
+      internalID: -2525829223265443807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_61
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 399
+        width: 20
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e280139bf8113f70800000000000000
+      internalID: 9165134185458860768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 411
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5ec0aa27f6bce00800000000000000
+      internalID: 1066068275073181124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 417
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c17c6354dc25fe0800000000000000
+      internalID: -1201672453399045102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_64
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 411
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5665ae982be27b20800000000000000
+      internalID: 3130823250668775005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 420
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d4142a219f9640800000000000000
+      internalID: 5088945714131949092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 411
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddf8a7f2fa258a40800000000000000
+      internalID: 5369745353734684124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 411
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a3115181bccf50800000000000000
+      internalID: 6903087497821267669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_68
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 411
+        width: 75
+        height: 43
+      alignment: 9
+      pivot: {x: 0.18241903, y: 0.51457536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7ba0d6fe06e3870800000000000000
+      internalID: 8664469314550282208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_69
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 411
+        width: 91
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ff3721b8dc39f0800000000000000
+      internalID: -487276404283542807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_70
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 414
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2beded3ccc5d600800000000000000
+      internalID: 492524875896763068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_71
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 405
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc3c252046fb9a90800000000000000
+      internalID: -7305975215116501797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_72
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 424
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4e17733c564940800000000000000
+      internalID: 5280008989250046775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_73
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 405
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1585530befb66ab0800000000000000
+      internalID: -5015110118936312548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_74
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 405
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270915db22d6f100800000000000000
+      internalID: 141531524009363243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 363
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a92f0cf5b6f300800000000000000
+      internalID: 285615720575379836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 356
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e09bedfce34fbe0800000000000000
+      internalID: -1444460517963264477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4bbbe8c25330310800000000000000
+      internalID: 1369997177140262133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_78
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 363
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04cc2cc2da923d0800000000000000
+      internalID: -3230860849903288155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_79
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 363
+        width: 73
+        height: 33
+      alignment: 9
+      pivot: {x: 0.16820076, y: 0.54587346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d466bc755aaf736b0800000000000000
+      internalID: -5316505247038085555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_80
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 363
+        width: 89
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b6ca63c8e099f0800000000000000
+      internalID: -463614835611486215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_81
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 335
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b2ed23ddcf2cde0800000000000000
+      internalID: -1314210114267370625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_82
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 326
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546fdd7bb3a1e7e0800000000000000
+      internalID: -1737927955522296738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_83
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 326
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a133e38b590dddf20800000000000000
+      internalID: 3449142231095456538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_84
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 326
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27fa24e390a606e0800000000000000
+      internalID: -1871632038077204693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_85
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 326
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977c454d3db9971f0800000000000000
+      internalID: -1046634104284199047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_86
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 322
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01fee00cb663c440800000000000000
+      internalID: 4954916972693221647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_87
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 306
+        width: 20
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e6920ba7c69770800000000000000
+      internalID: 8617294474316802385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 317
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470bc5b7b190dda0800000000000000
+      internalID: -5922073291777177778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c93a509410c9a0800000000000000
+      internalID: -6214944875549703652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 313
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134ccc310ce13210800000000000000
+      internalID: 1311088456600666898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_91
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 317
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793447a19c58e9e0800000000000000
+      internalID: -1591920687629190799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_92
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 317
+        width: 73
+        height: 33
+      alignment: 9
+      pivot: {x: 0.23041315, y: 0.54587346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc6f441438398980800000000000000
+      internalID: -8536229822373860170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_93
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 317
+        width: 89
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ecb5a7123e8a7c0800000000000000
+      internalID: -4059745331148239262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_94
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 345
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e772c702e63652a00800000000000000
+      internalID: 731099839160133502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d1b7841f0357f0800000000000000
+      internalID: -625139342424026893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_96
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 251
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac4b62e81fc48a0800000000000000
+      internalID: -6319410584270615829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 251
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61bdcf0b4992a40800000000000000
+      internalID: 5343965920729175728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 251
+        width: 49
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42276374, y: 0.5352045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd3ba0f16d87cf0800000000000000
+      internalID: -254217950134542359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 251
+        width: 77
+        height: 43
+      alignment: 9
+      pivot: {x: 0.24441767, y: 0.49999928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551bd268e3f670340800000000000000
+      internalID: 4829951439707943253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_100
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 251
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f0a8c0fba39c80800000000000000
+      internalID: -8317115036176681072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_101
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 276
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485904da93bcaa50800000000000000
+      internalID: 6533794636971464779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_102
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 251
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623e0eef379e2510800000000000000
+      internalID: 1526323624557818472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_103
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 280
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e983d32437c331e0800000000000000
+      internalID: -2219211164610229791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_104
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 280
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f245395aaa20f70800000000000000
+      internalID: 9152065020888362761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_105
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 217
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a398aa1c3f7c20800000000000000
+      internalID: 3206347544906147151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_106
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 217
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8171e39bb5b3fe860800000000000000
+      internalID: 7561327564514268952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a41c1d5a1eeb70800000000000000
+      internalID: 8930104098327669178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_108
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 197
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4100b3482c2c540800000000000000
+      internalID: 5026794007280227574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_109
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 197
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a9ef9fd96bc6c0800000000000000
+      internalID: -4122084624746043566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_110
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 228
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813fcd1ab418298a0800000000000000
+      internalID: -6299830766899760360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_111
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 231
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a949639bdf902b30800000000000000
+      internalID: 4260581012912294310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_112
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 231
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d3058a0f823b440800000000000000
+      internalID: 4950345429491400068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 47
+        height: 33
+      alignment: 9
+      pivot: {x: 0.33895388, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c97e2dbc948850800000000000000
+      internalID: 6378395308605948944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_114
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 197
+        width: 75
+        height: 33
+      alignment: 9
+      pivot: {x: 0.24769409, y: 0.52293676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d5b7f984417800800000000000000
+      internalID: 608342784028824961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_115
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 197
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d7126c3129ee030800000000000000
+      internalID: 3525916171903794590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_116
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 212
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947c6048342a95c0800000000000000
+      internalID: -4208011077806689133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_117
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 197
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc830bec7c318d8d0800000000000000
+      internalID: -2821483417660540721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_118
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 216
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e163a7f9b84eac580800000000000000
+      internalID: -8805974833042409954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_119
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 216
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c927dd3c1f62ff0800000000000000
+      internalID: -61095721386730398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_120
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 185
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ffb22219d99ca0800000000000000
+      internalID: -6009533555833572537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 124
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8b0d97d27e90370800000000000000
+      internalID: 8289410771655375061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_122
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 124
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f14d8933d8609b00800000000000000
+      internalID: 833281187476488697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 124
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ae2576d6f19c80800000000000000
+      internalID: -8317595635827170125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_124
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 94
+        width: 272
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bcd8dd536f5c2c0800000000000000
+      internalID: -4411849548728775908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd479ba79e73ef0800000000000000
+      internalID: -128377351050044667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_126
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 24
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6606a10dc65fae0e0800000000000000
+      internalID: -2239708016966737818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_127
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 24
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb420a049b5bf700800000000000000
+      internalID: 575154068801080310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 24
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004ce2abdde6ccb0800000000000000
+      internalID: -4843922821603377138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_129
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 25
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec62120063a67860800000000000000
+      internalID: 7527383459943312616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_130
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 27
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4050cbcd5474a60800000000000000
+      internalID: 7658166505716384940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_131
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 30
+        width: 129
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b438f5c8fc4de6680800000000000000
+      internalID: -8759830237310647477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_132
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 33
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91377c6a0f8182180800000000000000
+      internalID: -9140028021879114983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritos_133
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 122
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bd355254546440800000000000000
+      internalID: 4928156604844324155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
